@@ -1,0 +1,15 @@
+lang = {}
+
+n=input("enter your name :")
+s = input("enter your fav language :")
+lang.update({n:s})
+n=input("enter your name :")
+s = input("enter your fav language :")
+lang.update({n:s})
+n=input("enter your name :")
+s = input("enter your fav language :")
+lang.update({n:s})
+n=input("enter your name :")
+s = input("enter your fav language :")
+lang.update({n:s})
+print(lang)
